@@ -19,7 +19,6 @@ A powerful and lightweight tool designed to bridge the language gap in **GTA San
 
 1.  Download the latest release from the [Releases](#) section.
 2.  Run the `Auto_Translator_SAMP.exe`.
-3.  Select your target language.
 4.  Launch your SAMP client and start communicating!
 
 ## 💻 Tech Stack

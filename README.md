@@ -35,10 +35,8 @@ This project is maintained and developed with ❤️ by:
 
 | Developer | Role | Discord |
 | :--- | :--- | :--- |
-| **Rapael** | Lead Developer | - |
-| **Sandi** | Core Contributor | - |
-| **Pollonium2112** | Contributor | `@Pollonium2112` |
-| **Los4angeles_** | Contributor | `@Los4angeles_` |
+| **Rapael** | Contributor | `@Pollonium2112` |
+| **Sandi** | Contributor | `@Los4angeles_` |
 
 ---
 

@@ -41,7 +41,7 @@ This project is maintained and developed with ❤️ by:
 
 ## 📜 License
 
-Copyright © 2026 **By Rapael and Sandi**.  
+Copyright © 2026 **By Vuerza Manage Team**.  
 This project is licensed under the MIT License.
 
 ---
